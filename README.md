@@ -1,6 +1,8 @@
-﻿```sh
-✨HELLO, WELCOME TO MY PROJECT✨
-```
+
+<p align="center">
+✨HELLO, WELCOME TO THIS PROJECT✨
+</p><br/>
+
 ##### Project Information
 ---
 ###### Name: Dmoney API Automation Using Newman
@@ -25,6 +27,7 @@ This is a small money transaction API testing project where three stack-holders 
 > Withdraw money from agent<br/>
 > Sendmoney to another customer<br/>
 > Check account balance<br/><br/>
+
 
 
 ##### How to run
