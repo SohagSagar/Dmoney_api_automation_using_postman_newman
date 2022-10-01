@@ -10,17 +10,18 @@
 ----
 This is a small money transaction API testing project where three stack-holders (Admin-Agent-Customer) are present to transfer money by maintaining some business logic.
 
---- Admin
+###### Admin ---------------------------------------------------------------
+
 > login to the system<br/>
 > Create customer and agent account<br/>
 > Deposit money to agent<br/>
 > Search customer and agent using their ID<br/>
 
---- Agent
+###### Agent ---------------------------------------------------------------
 > Deposit money to customer<br/>
 > Check account balance<br/>
 
---- Customer
+###### Customer ------------------------------------------------------------
 > Withdraw money from agent<br/>
 > Sendmoney to another customer<br/>
 > Check account balance<br/><br/>
@@ -30,8 +31,8 @@ This is a small money transaction API testing project where three stack-holders 
 ----
 
 ###### Prerequisites:
--- Install node js<br/>
--- Vs code (Recommended)
+> Install node js<br/>
+> Vs code (Recommended)
 ###### Follow instructions:
 
 Open Terminal
@@ -48,9 +49,9 @@ git install
 ````
 npm test
 ````
-
+<br/>
 Boom!!✨<br/>
-You will get the project summary report.<br/>
+You will get the project summary report.<br/><br/>
 
 ##### Documentations
 ----
@@ -68,7 +69,7 @@ http://shorturl.at/diowW
 ----
 Live Reports
 ````
-http://shorturl.at/esU69
+https://sohagsagar.github.io/Dmoney_api_automation_using_postman_newman/
 ````
 
 Newman Reports
