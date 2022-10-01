@@ -68,7 +68,7 @@ http://shorturl.at/diowW
 ----
 Live Reports
 ````
-http://shorturl.at/cfot5
+http://shorturl.at/esU69
 ````
 
 Newman Reports
