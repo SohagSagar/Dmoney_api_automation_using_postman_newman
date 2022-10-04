@@ -63,9 +63,19 @@ API Documentation:
 https://documenter.getpostman.com/view/20854363/2s83tDnXUx
 ````
 
+API Collection:
+````
+https://www.postman.com/collections/b0cef9244fb0325f9565
+````
+
 Test Case Documentation:
 ````
 http://shorturl.at/diowW
+````
+
+Bug/Improvement Report:
+````
+https://shorturl.at/lsx37
 ````
 
 ##### Project Reports
@@ -80,3 +90,6 @@ Newman Reports
 ![2022-10-01_190436](https://user-images.githubusercontent.com/93009180/193410937-e72178d3-2c9c-4ac6-8732-eff9adecdc40.png)
 
 
+<p align="center">
+✨THANK YOU✨
+</p><br/>
